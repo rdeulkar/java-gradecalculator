@@ -17,8 +17,7 @@ public class gradecalcaulator {
 		String calculateAgain = "y";
 		
 		//Gets the user's info
-		System.out.println("This program will collect information on a user and calcaultes their grade");
-		System.out.print("Please enter your first name: ");
+		System.out.println("test ");
 		firstName = in.nextLine();
 		System.out.print("Please enter your last name: ");
 		lastName = in.nextLine();
